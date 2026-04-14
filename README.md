@@ -22,13 +22,13 @@ I am a skilled Data Analyst with a strong background in Python, SQL, and Looker.
 ## Extra Profile
 
 <p align="left">
-<a href="https://linkedin.com/in/fahad-hossain-8b162b182" target="blank"><img align="center" src="https://github.com/fahadshuvo33/fahadshuvo33/blob/Extra/linkedin.png" alt="fahad-hossain-8b162b182" height="40" width="40" />  LinkedIn </a> 
+<a href="https://linkedin.com/in/fahad-hossain-8b162b182" target="blank"><img align="center" src="https://github.com/shuvosync/shuvosync/blob/Extra/linkedin.png" alt="fahad-hossain-8b162b182" height="40" width="40" />  LinkedIn </a> 
 
-<a href="https://fb.com/profile.php?id=100009153839196" target="blank"><img align="center" src="https://github.com/fahadshuvo33/fahadshuvo33/blob/Extra/facebook.png" alt="profile.php?id=100009153839196" height="40" width="40" /> Facebook </a> 
+<a href="https://fb.com/profile.php?id=100009153839196" target="blank"><img align="center" src="https://github.com/shuvosync/shuvosync/blob/Extra/facebook.png" alt="profile.php?id=100009153839196" height="40" width="40" /> Facebook </a> 
 
-<a href="https://gitlab.com/fahadshuvo" target="blank"><img align="center" src="https://github.com/fahadshuvo33/fahadshuvo33/blob/Extra/gitlab-logo.svg" alt="" height="30" width="40" />  Gitlab  </a> 
+<a href="https://gitlab.com/fahadshuvo" target="blank"><img align="center" src="https://github.com/shuvosync/shuvosync/blob/Extra/gitlab-logo.svg" alt="" height="30" width="40" />  Gitlab  </a> 
 
-<a href="https://drive.google.com/file/d/1EKJ3e3FKmLM5Vc1m7HERpAConDW4NCTj/view?usp=drive_link" target="blank"><img align="center" src="https://github.com/fahadshuvo33/fahadshuvo33/blob/Extra/curriculum-vitae.png" alt="" height="40" width="40" />  My-CV </a>
+<a href="https://drive.google.com/file/d/1EKJ3e3FKmLM5Vc1m7HERpAConDW4NCTj/view?usp=drive_link" target="blank"><img align="center" src="https://github.com/shuvosync/shuvosync/blob/Extra/curriculum-vitae.png" alt="" height="40" width="40" />  My-CV </a>
 </p>
 
 ## About Me

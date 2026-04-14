@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://fahadshuvo33.github.io/",
+  "homepage": "https://shuvosync.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/",

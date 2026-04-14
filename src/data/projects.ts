@@ -9,7 +9,7 @@ export const projects: ProjectData = {
       tech: ['Django', 'Docker', 'PostgreSQL', 'Redis', 'Vue.js'],
       category: 'Full Stack',
       status: 'in-progress',
-      github: 'github.com/fahadshuvo33/mitnity',
+      github: 'github.com/shuvosync/mitnity',
 
       images: {
         thumbnail: '',
@@ -32,7 +32,7 @@ export const projects: ProjectData = {
       tech: ['Svelte', 'Tailwind CSS', 'Quran APIs'],
       category: 'Frontend',
       status: 'completed',
-      github: 'github.com/fahadshuvo33/quranverse',
+      github: 'github.com/shuvosync/quranverse',
       live: 'https://quranverse.islam.cl/',
 
       images: {
@@ -50,7 +50,7 @@ export const projects: ProjectData = {
       tech: ['Python', 'Python-dotenv', 'Python Telegram Bot', 'Asyncio', 'GitHub API'],
       category: 'Bot Development',
       status: 'maintained',
-      github: 'https://github.com/fahadshuvo33/gitscope-bot',
+      github: 'https://github.com/shuvosync/gitscope-bot',
       features: [
         'Search for public repositories with keywords',
         'Search for public profiles with usernames',
@@ -65,7 +65,7 @@ export const projects: ProjectData = {
       tech: ['Python', 'Telegram Bot API', 'Discord Bot API', 'Asyncio', 'API Ninja'],
       category: 'Bot Development',
       status: 'maintained',
-      github: 'github.com/fahadshuvo33/quotebot',
+      github: 'github.com/shuvosync/quotebot',
       features: [
         'Multi-platform support (Telegram & Discord)',
         '200+ daily quotes',

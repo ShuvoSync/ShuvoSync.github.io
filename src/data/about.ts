@@ -11,9 +11,9 @@ export const about: AboutData = {
   location: 'Dhaka, Bangladesh',
   email: 'fahadshuvo33@gmail.com',
   phone: 'Contact me via email',
-  github: 'http://www.github.com/fahadshuvo33',
-  linkedin: 'http://www.linkedin.com/in/fahadshuvo33',
-  portfolio: 'http://www.fahadshuvo.github.io',
+  github: 'http://www.github.com/shuvosync',
+  linkedin: 'https://www.linkedin.com/in/fahad-hossain-8b162b182/',
+  portfolio: 'http://www.ShuvoSync.github.io',
   availability: 'Available for full-time opportunities',
   languages: ['Bengali (Native)', 'English (Professional)'],
 }

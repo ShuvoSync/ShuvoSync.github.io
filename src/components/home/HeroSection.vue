@@ -221,7 +221,7 @@
 
           <!-- GitHub -->
           <a
-            href="https://github.com/fahadshuvo33"
+            href="https://github.com/shuvosync"
             target="_blank"
             @mouseenter="hoveredIcon = 'github'"
             @mouseleave="hoveredIcon = null"
