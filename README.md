@@ -1,5 +1,5 @@
 ## Hello 👋, My name is Fahad,
-I am a skilled Data Analyst with a strong background in Python, SQL, and Looker. I have a proven track record of analyzing complex data sets and providing valuable insights to inform business decisions. I am based in Dhaka, Bangladesh.
+I am a skilled Data Analyst with a strong background in Python, SQL, and Looker. I have a proven track record of analyzing complex data sets and providing valuable insights to inform business decisions. I am based in Ajman, United Arab Emirates.
 
 ## Skills
 
@@ -16,8 +16,8 @@ I am a skilled Data Analyst with a strong background in Python, SQL, and Looker.
 ## Contact Me
 
 📧 Email: fahadshuvo33@gmail.com  
-📞 Phone: (+880) 1798533533    
-📍 Location: Dhaka, Bangladesh  
+📞 Phone: +971 58 819 3881  
+📍 Location: Ajman, United Arab Emirates 
 
 ## Extra Profile
 

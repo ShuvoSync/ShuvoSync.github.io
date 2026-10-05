@@ -24,7 +24,7 @@
         <div class="flex items-center space-x-8 text-slate-400">
           <div class="flex items-center space-x-2 hover:text-slate-300 transition-colors">
             <span class="text-xl">📍</span>
-            <span class="font-medium">Dhaka, Bangladesh</span>
+            <span class="font-medium">Ajman, United Arab Emirates</span>
           </div>
           <div class="flex items-center space-x-2 hover:text-slate-300 transition-colors">
             <span class="text-xl">⏰</span>
