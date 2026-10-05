@@ -65,7 +65,7 @@
                 />
               </svg>
             </div>
-            <span class="text-gray-300 font-medium text-xs">Dhaka, Bangladesh</span>
+            <span class="text-gray-300 font-medium text-xs">Ajman, United Arab Emirates</span>
           </div>
         </div>
 
