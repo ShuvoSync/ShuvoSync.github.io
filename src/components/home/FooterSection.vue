@@ -28,7 +28,7 @@
           </div>
           <div class="flex items-center space-x-2 hover:text-slate-300 transition-colors">
             <span class="text-xl">⏰</span>
-            <span class="font-medium">GMT+6</span>
+            <span class="font-medium">GMT+4</span>
           </div>
           <div class="flex items-center space-x-2 hover:text-slate-300 transition-colors">
             <span class="text-xl">☕</span>
@@ -56,7 +56,7 @@
             <span>Email</span>
           </a>
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/shuvosync"
             target="_blank"
             class="text-slate-400 hover:text-blue-400 transition-colors flex items-center space-x-1"
           >

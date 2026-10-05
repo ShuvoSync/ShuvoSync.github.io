@@ -33,7 +33,7 @@
       <!-- Social Links -->
       <div class="flex justify-center space-x-8">
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/shuvosync"
           target="_blank"
           class="group text-white hover:text-blue-200 transition-all duration-300 transform hover:scale-110"
         >
@@ -49,7 +49,7 @@
         </a>
 
         <a
-          href="https://linkedin.com/in/yourusername"
+          href="https://www.linkedin.com/in/fahad-hossain-8b162b182/"
           target="_blank"
           class="group text-white hover:text-blue-200 transition-all duration-300 transform hover:scale-110"
         >

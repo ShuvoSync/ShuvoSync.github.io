@@ -51,7 +51,7 @@
                   class="absolute inset-0 w-1.5 h-1.5 sm:w-2 sm:h-2 bg-green-400 rounded-full animate-ping"
                 ></div>
               </div>
-              <span class="text-green-300 font-medium text-xs">Available for hire</span>
+              <span class="text-green-300 font-medium text-xs">Open to UAE opportunities</span>
             </div>
           </div>
 
@@ -65,7 +65,7 @@
                 />
               </svg>
             </div>
-            <span class="text-gray-300 font-medium text-xs">Dhaka, Bangladesh</span>
+            <span class="text-gray-300 font-medium text-xs">{{ about.location }}</span>
           </div>
         </div>
 
@@ -77,7 +77,7 @@
           <p
             class="text-xs sm:text-sm md:text-base text-gray-300 max-w-2xl sm:max-w-3xl md:max-w-4xl lg:max-w-5xl mx-auto leading-relaxed font-light text-center"
           >
-            {{ bioText }}
+            {{ about.shortBio }}
           </p>
         </div>
 
@@ -313,6 +313,7 @@ import { ref, onMounted, onBeforeUnmount } from 'vue'
 import DynamicAsciiName from '@/components/AsciiName.vue'
 import ExperienceModal from '@/components/home/ExperienceModal.vue'
 import ProjectsModal from '@/components/home/ProjectsModal.vue'
+import { about } from '@/data/about'
 const hoveredIcon = ref<string | null>(null)
 
 const roles = ['Python Developer', 'Django Developer', 'API Developer']
@@ -333,17 +334,13 @@ onBeforeUnmount(() => {
   }
 })
 
-const bioText = ref(
-  'I enjoy building digital solutions that are practical and useful. I take ideas and turn them into scalable, easy-to-use applications with modern web tools. With experience in Python, Django, and API development, I focus on creating solid backend systems that support great user experiences.',
-)
-
 const showExperienceModal = ref(false)
 const showProjectsModal = ref(false)
 
 const downloadCV = (event: Event) => {
   event.preventDefault()
   const link = document.createElement('a')
-  link.href = '/fahad.pdf'
+  link.href = '/resume.pdf'
   link.download = 'Fahad_Hossain_Resume.pdf'
   document.body.appendChild(link)
   link.click()
