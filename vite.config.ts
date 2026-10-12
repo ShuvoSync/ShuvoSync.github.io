@@ -4,11 +4,12 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vite.dev/config/
 export default defineConfig(({ mode }) => {
-  // Load env file based on `mode` in the current directory.
   const env = loadEnv(mode, process.cwd(), '')
 
   return {
-    base: env.VITE_APP_BASE_URL || '/',
+    // Set base to './' so all output HTML asset paths are relative
+    base: './',
+
     build: {
       outDir: 'dist',
       assetsDir: 'assets',
@@ -23,22 +24,20 @@ export default defineConfig(({ mode }) => {
     },
     server: {
       historyApiFallback: true,
-      // Removed problematic headers that cause MIME type issues
     },
     preview: {
       port: 4173,
       historyApiFallback: true,
-      base: '/', // Explicitly set base for preview
-      // Removed problematic headers that cause MIME type issues
+      base: './',
     },
-    plugins: [vue()], // Removed vueDevTools
+    plugins: [vue()],
     resolve: {
       alias: {
         '@': fileURLToPath(new URL('./src', import.meta.url)),
       },
     },
     define: {
-      __APP_ENV__: env.APP_ENV,
+      __APP_ENV__: JSON.stringify(env.APP_ENV || mode),
     },
   }
 })
